@@ -20,6 +20,7 @@
 .dsmovie-form-btn-container {
     display: flex;
     justify-content: center;
+    text-decoration: none;
 }
 
 .dsmovie-movie-card-image {
