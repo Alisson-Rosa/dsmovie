@@ -27,3 +27,8 @@ header{
     font-weight: 700;
     font-size: 24px;
 }
+
+.gitlink {
+    color: #fff;
+    text-decoration: none;
+}
